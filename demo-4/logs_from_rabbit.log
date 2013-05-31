@@ -1,0 +1,3 @@
+string(46) "[*] Waiting for messages. To exit press CTRL+C"
+string(39) "[x]error: Run. Run. Or it will explode."
+string(41) "[x]warning: Run. Run. Or it will explode."

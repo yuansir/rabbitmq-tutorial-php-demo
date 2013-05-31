@@ -1,0 +1,4 @@
+string(46) "[*] Waiting for messages. To exit press CTRL+C"
+string(31) " [x] Received:info:Hello World!"
+string(31) " [x] Received:info:Hello World!"
+string(19) " [x] Received: 1111"
